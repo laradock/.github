@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/laradock/laradock/master/.github/home-page-images/laradock-logo.jpg" alt="Laradock" width="520">
+  <img src="https://raw.githubusercontent.com/laradock/laradock/master/.github/home-page-images/laradock-logo.png" alt="Laradock" width="520">
 </p>
 
 <h3 align="center">Use Docker First. Learn About It Later.</h3>
